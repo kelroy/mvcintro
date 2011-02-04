@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-require 'test'
+require 'mvcintro'
 
 run Sinatra::Application
 
